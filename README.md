@@ -1,1 +1,1 @@
-# React-Typescript Project
+# React TypeScript Project
