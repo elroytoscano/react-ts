@@ -1,3 +1,3 @@
-# React TypeScript Project - No Styling Framework
+# React TypeScript Project - Styled Components styling
 
-- Contains no styling
+- Contains styling by Styled Components
